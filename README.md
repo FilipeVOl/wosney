@@ -1,3 +1,5 @@
+As tarefas estão na branch master
+
 Instale a Extensão Python no VS Code:
 
 Abra o VS Code e vá até a aba de extensões (ícone de quadrados no menu lateral).
